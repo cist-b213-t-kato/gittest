@@ -1,0 +1,33 @@
+
+このテキストは、実験台です
+他の人の文章を乱して、とにかくめちゃくちゃに書いてコンフリクト（競合）を起こした人が勝ち！（他の人の文章は消さずに追加した方が起こりやすそう）
+はい、よーいスタート
+
+　↓
+ad
+daasdsd
+おadaadssあdあaああああああああaあaあaあaあaあaあaあaあaあaあaあaあaあaあaああああ
+あdsaddasasassasasあああああsああああああああああああああ
+asああdasdsaあああああああsあコwンwフwクwトwやだあああああああああああ
+ddasasasdsaa
+20asd15d/sdasaasa1a2a/a17 今日もいいsassaa天気★
+sdasdsadasasasaasasdasda
+；あasおasssaadsasaaaasdssdsddaｓdaｋｄｊｆｌｋじゃｓ；ｄｆｊ；あｓｄふぁｌ；ｊｋｓｄｆあｓｊｄｋｌｆｊ；あｓｄふぁｓｋｌ；ｄｆｊ
+くぁｗdssadddsasdsaasasasdasdasdasせｄｒｆｔｇｙふじこｌｐ；＠：「」
+saddasasasdasdasasasa
+asdasasdasdadasasa
+I am tassadasdasdsahe sapen by UNI corp.
+sasasa
+
+
+/**
+ * @author Tatsumi Kato
+ */
+class App {
+  public static void main(String[] args){
+
+    System.out.println("hell world");
+
+  }
+}
+
